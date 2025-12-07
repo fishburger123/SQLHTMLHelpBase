@@ -1,0 +1,61 @@
+Q11:
+1. Style the villian class:
+
+Add a a 1px solid brown border.
+Set the background color to black.
+Align the text to the center.
+2. Style the minion id:
+
+Make the text bold. 
+Make the text size to 16px. 
+Make the text color #FFF. 
+
+EXTERNAL CSS:
+/* 1. Style the villian class */
+.villian {
+    border: 1px solid brown;
+    background-color: black;
+    text-align: center;
+}
+
+/* 2. Style the minion id */
+#minion {
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFF;
+}
+
+Q12:
+1. Style the header:
+
+Set the background color to green.
+Make the text color rgb(255,255,255).
+Align the text to the left.
+Make the text bold
+Make the text uppercase.
+Set the padding to 10px
+2. Style the footer:
+
+Set the background color to hotpink.
+Make the text color #0000FF 
+Align the text to the center.
+Set the padding to 20px
+
+EXTERNAL CSS:
+/* 1. Style the header */
+header {
+    background-color: green;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+/* 2. Style the footer */
+footer {
+    background-color: hotpink;
+    color: #0000FF;
+    text-align: center;
+    padding: 20px;
+}

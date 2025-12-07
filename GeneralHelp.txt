@@ -1,0 +1,32 @@
+Which HTML tag is used to define a table?
+<table>
+
+Which of the following is correct for creating an anchor link to a HTML element with the id attribute, id=section1 within the same page?
+<a href=#section1>Go to Section 1</a>
+
+Which is the correct syntax for a paragraph in HTML?
+<p>Text</p>
+
+Using proper HTML syntax, can the <p> tag be used without a closing tag?
+No, it must always have a closing tag.
+
+What does the <div> tag represent in HTML?
+A container for grouping and styling content
+
+How many levels of headings does HTML support?
+6
+
+Which HTML tag is used to create an ordered list?
+<ol>
+
+How is a semi-transparent black with 50% opacity written in RGBA?
+rgba(0, 0, 0, 0.5)
+
+Which tag is used to embed an image in an HTML document?
+<img>
+
+Which tag is used to make text bold in HTML?
+<b>
+
+How can you make a link not clickable?
+Remove the href attribute.
